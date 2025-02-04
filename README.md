@@ -1,4 +1,4 @@
-## Hi there 👋
+ Hi there 👋, I am Aashika Kumari
 
 <!--
 **aashikakri105/aashikakri105** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
